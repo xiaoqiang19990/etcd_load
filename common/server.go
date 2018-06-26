@@ -2,7 +2,6 @@ package common
 
 import (
 	"encoding/json"
-	"fmt"
 	"github.com/coreos/etcd/client"
 	"golang.org/x/net/context"
 	"log"
