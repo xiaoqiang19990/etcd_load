@@ -36,6 +36,6 @@ func main() {
 		fmt.Println("example -h for usage")
 	}
 	time.Sleep(20 * time.Second)
-	fmt.Println("dddds")
+	fmt.Println("ddddssss")
 	select {}
 }
